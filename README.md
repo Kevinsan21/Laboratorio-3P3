@@ -14,8 +14,7 @@ FASORES
 # MARCO TEORICO
 
 .FASORES
-![Untitled (6)](https://user-images.githubusercontent.com/84421020/133168446-a99823e6-3c77-44f6-84c2-04678a0744f7.jpg)
-
+![Untitled (7)](https://user-images.githubusercontent.com/84421020/133168570-985b0d89-d7c9-4ee7-8872-e187de064aa7.jpg)
 # PROCEDIMIENTO
 
 
