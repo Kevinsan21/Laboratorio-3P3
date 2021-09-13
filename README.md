@@ -8,10 +8,13 @@ Alejandra Beltrán
 Kevin Barrera
 
 # TEMA
-Fasores 
+FASORES
 # OBJETIVOS
 
 # MARCO TEORICO
+
+.FASORES
+![Untitled (6)](https://user-images.githubusercontent.com/84421020/133168446-a99823e6-3c77-44f6-84c2-04678a0744f7.jpg)
 
 # PROCEDIMIENTO
 
