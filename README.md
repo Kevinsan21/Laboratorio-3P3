@@ -31,7 +31,7 @@ Para una mejor observacion dar click en la imagen.
 
 
 # VIDEO 
-
+https://youtu.be/ZkXoe37clNY
 # CONCLUSIONES
 La utilización de los fasores es un instrumento matemática de gran ayuda, puesto que simplifica la exploración de los circuitos, facilitando los cálculos, debido a que si se toma la señal en el dominio del tiempo se tendría que laborar con ecuaciones diferenciales, lo que realizaría más extenso el método. Un fasor es un vector utilizado para representar una onda, de forma que el vector suma de varios fasores
 puede ser utilizado para determinar la magnitud y fase de varias ondas después de procesos de
