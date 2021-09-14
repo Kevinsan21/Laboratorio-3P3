@@ -10,6 +10,8 @@ Kevin Barrera
 # TEMA
 FASORES
 # OBJETIVOS
+Realizar operaciones aritméticas con números complejos, tanto en su forma polar
+como rectangular.
 
 # MARCO TEORICO
 
