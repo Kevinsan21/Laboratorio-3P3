@@ -15,6 +15,8 @@ como rectangular.
 
 Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial.
 
+Comprender de una manera mas sencilla el uso de fasores en la implementacion de circuitos electricos.
+
 # MARCO TEORICO
 
 .FASORES
