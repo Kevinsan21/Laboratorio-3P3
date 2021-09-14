@@ -28,6 +28,12 @@ Para una mejor observacion dar click en la imagen.
 
 
 # RESPUESTA A INTERROGANTES
+![practica3P3_1](https://user-images.githubusercontent.com/84421020/133299314-b1d65bb7-5871-46d6-bb57-683c628673c8.jpg)
+![practica3P3_2](https://user-images.githubusercontent.com/84421020/133299324-69a338f8-390d-4c29-9e86-fa586d69af5d.jpg)
+![practica3P3_3](https://user-images.githubusercontent.com/84421020/133299343-fabdd634-0e9b-4de0-bde3-728e6825ea76.jpg)
+![practica3P3_4](https://user-images.githubusercontent.com/84421020/133299360-d496cfef-004f-4fee-8c8f-170264bff8fe.jpg)
+![practica3P3_5](https://user-images.githubusercontent.com/84421020/133299389-1e66fe7a-ba75-4baf-af33-7a15ed9f6f58.jpg)
+![practica3P3_6](https://user-images.githubusercontent.com/84421020/133299407-5952a989-59e0-420f-8966-39009e849b86.jpg)
 
 
 # VIDEO 
