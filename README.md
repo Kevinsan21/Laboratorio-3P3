@@ -13,6 +13,8 @@ FASORES
 Realizar operaciones aritméticas con números complejos, tanto en su forma polar
 como rectangular.
 
+Conocer la relación entre reactancias inductivas y capacitivas de manera fasorial.
+
 # MARCO TEORICO
 
 .FASORES
