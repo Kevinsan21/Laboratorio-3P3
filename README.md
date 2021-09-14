@@ -25,7 +25,13 @@ Para una mejor observacion dar click en la imagen.
 ![Untitled (9)](https://user-images.githubusercontent.com/84421020/133168821-e23f52e2-1140-4716-8202-2f6e468c5411.jpg)
 
 # PROCEDIMIENTO
-
+![PR¦CTICA No9_1](https://user-images.githubusercontent.com/84421370/133299467-2164b5cd-3122-4fa4-98fa-ae537d004061.jpg)
+![PR¦CTICA No9_2](https://user-images.githubusercontent.com/84421370/133299477-4713ce5f-06e8-4ca0-ba2f-cd1313db108d.jpg)
+![PR¦CTICA No9_3](https://user-images.githubusercontent.com/84421370/133299488-00e7d994-fc76-43f7-8053-d7645f53ee8d.jpg)
+![PR¦CTICA No9_4](https://user-images.githubusercontent.com/84421370/133299496-467362b5-12aa-4fa1-a51e-3bc749313b52.jpg)
+![PR¦CTICA No9_5](https://user-images.githubusercontent.com/84421370/133299508-72290227-2ae0-448d-9d1f-f27e71749d03.jpg)
+![PR¦CTICA No9_6](https://user-images.githubusercontent.com/84421370/133299520-67320b30-9bdc-420a-bb92-9fe150af9ce6.jpg)
+![PR¦CTICA No9_7](https://user-images.githubusercontent.com/84421370/133299529-5f10f0f6-9e41-4474-8091-3783040b32d0.jpg)
 
 # RESPUESTA A INTERROGANTES
 ![practica3P3_1](https://user-images.githubusercontent.com/84421020/133299314-b1d65bb7-5871-46d6-bb57-683c628673c8.jpg)
