@@ -33,6 +33,8 @@ Para una mejor observacion dar click en la imagen.
 # VIDEO 
 
 # CONCLUSIONES
-La utilización de los fasores es un instrumento matemática de gran ayuda, puesto que simplifica la exploración de los circuitos, facilitando los cálculos, debido a que si se toma la señal en el dominio del tiempo se tendría que laborar con ecuaciones diferenciales, lo que realizaría más extenso el método. 
+La utilización de los fasores es un instrumento matemática de gran ayuda, puesto que simplifica la exploración de los circuitos, facilitando los cálculos, debido a que si se toma la señal en el dominio del tiempo se tendría que laborar con ecuaciones diferenciales, lo que realizaría más extenso el método. Un fasor es un vector utilizado para representar una onda, de forma que el vector suma de varios fasores
+puede ser utilizado para determinar la magnitud y fase de varias ondas después de procesos de
+interferencia. Los fasores se utilizan directamente en óptica, ingeniería de telecomunicaciones y acústica
 # BIBLIOGRAFIA
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
